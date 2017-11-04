@@ -1,0 +1,49 @@
+/* Choose a set of fonts to import */
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab|Roboto|Inconsolata);
+
+
+
+/* Set the typeface for the heading */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Roboto, serif";
+  color: #CF6766;
+}
+
+/* Set the typeface for the body, as well as the font and background colors */
+.top-bar ul, .top-bar {
+  font-family: inherit;
+  background-color: #30415D;
+}
+
+body {
+  font-family:  Roboto, sans-serif;
+  /*color: #031424;*/
+  color: #CF6766;
+  background-color: #CF6766;
+  /*margin: 2% 10%;*/
+}
+
+
+footer {
+  padding: 30px;
+  background-color: #30415D;
+}
+
+.footer-nav {
+  position:relative;
+  bottom: 0;
+  width: 100%;
+}
+
+footer a {
+  display: block;
+}
+
+.callout.secondary {
+  background-color: #8EAEBD;
+}
+
+.position-bottom {
+  position:absolute;
+  height: auto;
+}

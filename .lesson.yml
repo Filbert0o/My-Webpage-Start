@@ -1,0 +1,7 @@
+---
+title: "Define Your Style"
+type: "exercise"  # challenge, exercise, article, video
+description: "Define your style by creating a HTML/CSS boilerplate."
+tags: "web-design"
+ignore:
+- "define-your-style.md"
